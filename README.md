@@ -11,10 +11,13 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-👨‍💻 I’m currently studing Computer Science at PUC Minas
-☕ Learning and Studing Java, Python an Back-End languages
-⚡ Looking for my first oportunitty in the technology area #OpenToWork
+<hr>
 
+- 👨‍💻 I’m currently studing Computer Science at PUC Minas
+- ☕ Learning and Studing Java, Python an Back-End languages
+- ⚡ Looking for my first oportunitty in the technology area #OpenToWork
+
+<hr>
 
 
 ### Some interesting links:
