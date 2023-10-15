@@ -18,12 +18,6 @@
 - ⚡ Looking for my first oportunitty in the technology area #OpenToWork
 
 <hr>
-
-### Some interesting links:
-  
-  
-  ##
- 
 <div> 
  
   <a href="https://instagram.com/vitor_lut" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
