@@ -5,17 +5,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&username=VitorLucioOliveira" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: inline_block" >
-   <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />   
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display: inline_block"  ><br>
+   <img align="center" alt="Java Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+
+   <img  align="center" height="30" width="40" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
+
+   <img  align="center" height="30" width="40" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+   
+   <img  align="center" height="30" width="40" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+   
+   <img  align="center" height="30" width="40" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />   
+
  </div>
 
 <hr>
