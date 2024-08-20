@@ -21,7 +21,7 @@
  </div>
 
 <hr>
-
+- <a href="https://portifolio-alura-green.vercel.app" target="_blank">Portifolio Online</a>
 - 👨‍💻 I’m currently studing Computer Science at PUC Minas
 - ☕ Learning and Studing Java, Python an Back-End languages
 - ⚡ Looking for my first oportunitty in the technology area #OpenToWork
